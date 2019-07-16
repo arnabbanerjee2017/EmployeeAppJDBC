@@ -1,1 +1,4 @@
 # EmployeeAppJDBC
+
+This is a Spring Boot Demo app.
+It demonstrates the basic working of Spring Boot and JDBC Template with Async Communication.
